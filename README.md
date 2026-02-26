@@ -2,7 +2,7 @@
 - 😄 Pronouns: She/Her
 - I’m interested in technology, books, I'm a Knowledge enthusiast and love learning. 
 - 🌱 I’m currently a undergraduate student doing Bachelor's in Computer Science. 
--  I’m looking to collaborate on C++ , Python, Java beginner projects, learning mod. 
+-  I’m looking to collaborate on various projects to improve. 
 - 📫 How to reach me:
 - connect on LinkedIn :
 -![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) :  https://www.linkedin.com/in/arhama-batool-3a477434a
